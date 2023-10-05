@@ -1,6 +1,4 @@
-#!/usr/bin/env python
-# Tsung-Yi Lin <tl483@cornell.edu>
-# Ramakrishna Vedantam <vrama91@vt.edu>
+
 
 import copy
 from collections import defaultdict

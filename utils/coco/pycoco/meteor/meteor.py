@@ -1,16 +1,12 @@
-#!/usr/bin/env python
 
-# Python wrapper for METEOR implementation, by Xinlei Chen
-# Acknowledge Michael Denkowski for the generous discussion and help 
 
 import os
 import sys
 import subprocess
 import threading
 
-# Assumes meteor-1.5.jar is in the same directory as meteor.py.  Change as needed.
 METEOR_JAR = 'meteor-1.5.jar'
-# print METEOR_JAR
+
 
 class Meteor:
 

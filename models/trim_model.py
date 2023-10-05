@@ -1,7 +1,3 @@
-#!/usr/bin/python
-
-# Run this script to remove the data that are only useful for training
-# from your model files in order to make them more compact.
 
 import os
 import numpy as np
